@@ -2,3 +2,7 @@
   font-family: sans-serif;
   text-align: center;
 }
+.title {
+  background-color: red;
+  width: 50vw;
+}
